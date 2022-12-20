@@ -75,7 +75,6 @@
     
 <h4 align="center">Isometric view of contributions in the last year.</h4>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <p align="center">
