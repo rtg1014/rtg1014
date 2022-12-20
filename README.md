@@ -86,4 +86,3 @@
 
 
 
-![snake gif](https://github.com/rtg1014/rtg1014/blob/output/github-contribution-grid-snake.svg)
