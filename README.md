@@ -68,11 +68,10 @@
 	  
 <h4 align="center">My contribution graph</h4>
 
-<p align="center"> <img width="900em" src="https://github-contribution-graph.herokuapp.com/graph?username=rtg1014&bg_color=1F222E&color=FF0075&line=77D970&point=FFFFFF&hide_border=false" alt="kim-seong-hyeon's Github Graph" /> </p>
 
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 
-<p align="center"> <img  width="900em" alt="vikash2806's Github comitte snake"  src="https://github.com/vikash2806/vikash2806/blob/output/github-contribution-grid-snake.svg" /> </p>
+![snake gif](https://github.com/rtg1014/rtg1014/blob/output/github-contribution-grid-snake.svg)
     
 <h4 align="center">Isometric view of contributions in the last year.</h4>
 
@@ -85,3 +84,6 @@
 	</a>
 </p>
 
+
+
+![snake gif](https://github.com/rtg1014/rtg1014/blob/output/github-contribution-grid-snake.svg)
