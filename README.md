@@ -46,7 +46,7 @@
  <p align="center">
   <a href="https://github.com/rtg1014"><img src="https://img.icons8.com/fluency/50/000000/github.png"/><a/>
   <a href="mailto:rtg1014@gmail.com?subject=Github profile Visit"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/><a/>
-<a href="mailto:rtg1014@gmail.com?subject=Github profile Visit"><img src="https://velog.velcdn.com/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png"/><a/>
+<a href="https://velog.io/@mython"><img src="https://velog.velcdn.com/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png"/><a/>
 	  
 	  
 	  
