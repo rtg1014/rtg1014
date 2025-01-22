@@ -66,14 +66,11 @@
 
 
 
-### Github contribution:
-	  
-<h4 align="center">My contribution graph</h4>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/rtg1014?pet-id=1" width="1000" height="120"/>
+</a>
 
 
-<h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
-
-![snake gif](https://github.com/rtg1014/rtg1014/blob/output/github-contribution-grid-snake.svg)
     
 <h4 align="center">Isometric view of contributions in the last year.</h4>
 
